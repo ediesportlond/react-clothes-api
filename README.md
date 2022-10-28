@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Building front end with react for API I build last week.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## To see a sample:
 
 In the project directory, you can run:
 
